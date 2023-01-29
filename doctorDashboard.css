@@ -22,19 +22,22 @@ body {
 }
 
 .ar{
-  width: 3rem;
+  width: 5rem;
   height: 2rem;
   color:white;
   border: none;
   font-weight: bold;
   cursor: pointer;
+  
 }
 
 .reject{
   border: 2px solid #ef4444;
+  color: #ef4444;
 }
 .reject:hover{
   background: #ef4444;
+  color: white;
 }
 
 .nav-container {
