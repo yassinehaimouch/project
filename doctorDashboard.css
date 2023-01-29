@@ -22,7 +22,7 @@ body {
 }
 
 .ar{
-  width: 5rem;
+  width: 3rem;
   height: 2rem;
   color:white;
   border: none;
@@ -30,17 +30,12 @@ body {
   cursor: pointer;
 }
 
-.accept{
-  border: 2px solid #22c55e;
-  background: #22c55e;
-}
-
-
 .reject{
   border: 2px solid #ef4444;
+}
+.reject:hover{
   background: #ef4444;
 }
-
 
 .nav-container {
   display: flex;
